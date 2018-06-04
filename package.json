@@ -1,0 +1,22 @@
+{
+  "name": "observable",
+  "version": "1.0.0",
+  "description": "Building an observable from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalshehu/observable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalshehu/observable/issues"
+  },
+  "homepage": "https://github.com/amalshehu/observable#readme",
+  "dependencies": {
+    "rxjs": "^6.2.0"
+  }
+}
